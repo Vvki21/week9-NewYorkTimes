@@ -1,0 +1,13 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        #search-form {
+            margin-top: 20px;
+        }
+
+        #results {
+            margin-top: 20px;
+        }
